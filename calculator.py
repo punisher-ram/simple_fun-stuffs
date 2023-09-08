@@ -49,7 +49,7 @@ buttons = [
     '4', '5', '6', '*',
     '1', '2', '3', '-',
     '0', '.', '=', '+',
-    'C', '<-'  # Removed the "/" button
+    'C', '<-' 
 ]
 
 # Function to handle button clicks
