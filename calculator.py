@@ -1,3 +1,4 @@
+#import the dependency - pip install Tkinter
 import tkinter as tk
 
 # Function to update the display
